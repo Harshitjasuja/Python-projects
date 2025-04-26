@@ -7,7 +7,7 @@ import os
 import shutil
 
 # path to your folder you want to organize
-folder_path = r"/Users/harshitjasuja/Desktop/college_work/python/projects/LEVEL-EASY"
+folder_path = r"/Users/abcdef/abcdef"   #enter the path for the folder to be organized 
 
 # dictonary of folder names and file extensions
 file_type = {
